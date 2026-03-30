@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Sai Cách Yêu",
+  "base_artist": "Lê Bảo Bình",
+  "createdAt": "2026-03-30T14:12:42.180144Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sai Cách Yêu",
+      "artist": "Lê Bảo Bình",
+      "has_synced": false,
+      "path": "select/01_Sai_Cách_Yêu_Lê_Bảo_Bình.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sai Cách Yêu - Remix",
+      "artist": "Lê Bảo Bình",
+      "has_synced": true,
+      "path": "select/02_Sai_Cách_Yêu_-_Remix_Lê_Bảo_Bình.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sai Cách Yêu (Remix)",
+      "artist": "Le Bao Binh",
+      "has_synced": true,
+      "path": "select/03_Sai_Cách_Yêu_(Remix)_Le_Bao_Binh.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sai Cách Yêu (Deephouse)",
+      "artist": "Le Bao Binh",
+      "has_synced": true,
+      "path": "select/04_Sai_Cách_Yêu_(Deephouse)_Le_Bao_Binh.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Quen Cach Yeu",
+      "artist": "Luong Bich Huu",
+      "has_synced": true,
+      "path": "select/05_Quen_Cach_Yeu_Luong_Bich_Huu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Quen Cach Yeu (Chinese Version)",
+      "artist": "Luong Bich Huu",
+      "has_synced": true,
+      "path": "select/06_Quen_Cach_Yeu_(Chinese_Version)_Luong_Bich_Huu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Quen Cach Yeu (Ver. China)",
+      "artist": "Luong Bich Huu & Tam Ho Band",
+      "has_synced": true,
+      "path": "select/07_Quen_Cach_Yeu_(Ver._China)_Luong_Bich_Huu_&_Tam_Ho_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Quen Cach Yeu",
+      "artist": "Luong Bich Huu & Tam Ho Band",
+      "has_synced": true,
+      "path": "select/08_Quen_Cach_Yeu_Luong_Bich_Huu_&_Tam_Ho_Band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Quen Cach Yeu - Luong Bich Huu",
+      "artist": "Luong Bich Hu",
+      "has_synced": false,
+      "path": "select/09_Quen_Cach_Yeu_-_Luong_Bich_Huu_Luong_Bich_Hu.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Quên Cách Yêu - Kiên Mít Remix",
+      "artist": "Exclusive Music",
+      "has_synced": false,
+      "path": "select/10_Quên_Cách_Yêu_-_Kiên_Mít_Remix_Exclusive_Music.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "CÁCH (YÊU ĐÚNG) ĐIỆU",
+      "artist": "EM XINH \"SAY HI\"",
+      "has_synced": true,
+      "path": "select/11_CÁCH_(YÊU_ĐÚNG)_ĐIỆU_EM_XINH__SAY_HI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "CÁCH (YÊU ĐÚNG) ĐIỆU",
+      "artist": "EM XINH \"SAY HI\"",
+      "has_synced": true,
+      "path": "select/12_CÁCH_(YÊU_ĐÚNG)_ĐIỆU_EM_XINH__SAY_HI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Anh Đã Không Biết Cách Yêu Em",
+      "artist": "Quang Đăng Trần",
+      "has_synced": true,
+      "path": "select/13_Anh_Đã_Không_Biết_Cách_Yêu_Em_Quang_Đăng_Trần.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Quên Cách Yêu",
+      "artist": "Lương Bích Hữu",
+      "has_synced": false,
+      "path": "select/14_Quên_Cách_Yêu_Lương_Bích_Hữu.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Học Cách Yêu Em",
+      "artist": "Pham Dinh Thai Ngan",
+      "has_synced": false,
+      "path": "select/15_Học_Cách_Yêu_Em_Pham_Dinh_Thai_Ngan.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Anh Đã Không Biết Cách Yêu Em",
+      "artist": "Quang Đăng Trần",
+      "has_synced": false,
+      "path": "select/16_Anh_Đã_Không_Biết_Cách_Yêu_Em_Quang_Đăng_Trần.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Anh Đã Không Biết Cách Yêu Em  (Piano Version)",
+      "artist": "Quang Đăng Trần",
+      "has_synced": false,
+      "path": "select/17_Anh_Đã_Không_Biết_Cách_Yêu_Em_(Piano_Version)_Quang_Đăng_Trần.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Anh Đã Không Biết Cách Yêu Em  (Tú Remix)",
+      "artist": "Quang Đăng Trần",
+      "has_synced": false,
+      "path": "select/18_Anh_Đã_Không_Biết_Cách_Yêu_Em_(Tú_Remix)_Quang_Đăng_Trần.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Anh Đã Không Biết Cách Yêu Em  (Piano Version Instrumental)",
+      "artist": "Quang Đăng Trần",
+      "has_synced": false,
+      "path": "select/19_Anh_Đã_Không_Biết_Cách_Yêu_Em_(Piano_Version_Instrumental)_Quang_Đăng_Trần.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Anh Không Biết Cách Yêu Em",
+      "artist": "Quang Đăng Trần",
+      "has_synced": true,
+      "path": "select/20_Anh_Không_Biết_Cách_Yêu_Em_Quang_Đăng_Trần.lrc"
+    }
+  ]
+}
